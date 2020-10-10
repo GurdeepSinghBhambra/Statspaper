@@ -1,0 +1,84 @@
+body{
+	font-family: 'Noto Sans JP', sans-serif;
+	overflow-x:hidden;
+}
+#head{
+	text-align:center;
+	background-color:white;
+	font-size: xx-large;
+	}
+	
+.brandsize{
+	font-size: 4rem;
+}
+#block1
+{
+	height:20em;
+	width:100%;
+	border:0.1em solid rgb(252, 249, 249);
+	padding:1em;
+	background-color: #f0f1f2;
+}
+
+#block2
+{
+	
+	
+	border:0.1em solid rgb(247, 244, 244);
+	border-top:0em;
+	padding:1em;
+	background-color: #38393b;
+}
+#box1{
+	height:30em;
+	width:100%;
+	border:0.1em solid rgb(250, 248, 248);
+}
+#box2{
+	height:10em;
+	width:70%;
+	border:0.1em solid rgb(247, 244, 244);
+	margin-bottom:1em;
+}
+#box3{
+	height:10em;
+	width:70%;
+	border:0.1em solid rgb(248, 247, 247);
+	
+}
+#box{
+	height:5em;
+	width:100%;
+	border:0.1em solid rgb(253, 252, 252);
+	text-align:center;
+	margin-bottom:1em;
+}
+#box4{
+	height:20em;
+	width:100%;
+	border:0.1em solid rgb(250, 247, 247);
+}
+#graphyaemoticon{
+	height:40%;
+	width:40%;
+	border:0.1em solid black;
+	margin-top:2em;
+}
+.emoticon{
+	font-size: 60px;
+
+}
+.chart{
+	margin:20px;
+	width: 100%;
+	height:270px;
+}
+form.example input[type=text] {
+	padding: 10px;
+	font-size: 17px;
+	border: 1px solid grey;
+	float: center;
+	width: 80%;
+	height: 50%;
+	background: #f0f1f2;
+  }
