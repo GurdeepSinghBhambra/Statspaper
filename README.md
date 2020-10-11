@@ -1,4 +1,5 @@
 # Statspaper
+This project aims at bringing machine learning alogorithms to daily finance news readers and help them grab news better and faster with forecasts.
 
 This project was created for technoutsav 3.0 (2020).
 
